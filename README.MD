@@ -1,0 +1,1 @@
+**Cat Photo App** - Basic HTML, tags, and structure.
